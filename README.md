@@ -7,8 +7,9 @@ Created with good practices and standards for email creations. Of course it is m
 
 Check this on __[https://warmaxis.github.io/High_compatibility_email_creation/](https://warmaxis.github.io/High_compatibility_email_creation/)__
 
-## Used technologies in this project:
+Created by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__
 
+## Used technologies in this project:
 
 * __HTML 4.01__
 * __CSS inline__
